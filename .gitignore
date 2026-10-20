@@ -1,0 +1,20 @@
+# Derleme çıktıları
+bin/
+obj/
+out/
+/packages/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+_ReSharper*/
+riderModule.iml
+
+# İşletim sistemi
+.DS_Store
+
+# Günlükler
+*.log

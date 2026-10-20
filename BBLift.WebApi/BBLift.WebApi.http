@@ -1,0 +1,6 @@
+@BBLift.WebApi_HostAddress = https://localhost:7273
+
+GET {{BBLift.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

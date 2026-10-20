@@ -1,0 +1,6 @@
+namespace BBLift.Application.Dtos;
+
+public record EquipmentResponse(
+    Guid Id,
+    string Name
+);

@@ -1,0 +1,7 @@
+﻿services:
+  bblift.webapi:
+    image: bblift.webapi
+    build:
+      context: .
+      dockerfile: BBLift.WebApi/Dockerfile
+
