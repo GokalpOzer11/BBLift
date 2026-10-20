@@ -12,7 +12,6 @@ Katmanlı mimari, generic repository pattern, FluentValidation, ASP.NET Core Ide
 - `BBLift.Application`: Servisler, DTO'lar, doğrulayıcılar, `Result` yapısı
 - `BBLift.Infrastructure`: EF Core, DbContext, repository'ler, migration'lar
 - `BBLift.WebApi`: Controller'lar, kimlik doğrulama, Scalar (OpenAPI) dokümantasyonu
-- `BBLift.Mvc`: Eski deneme arayüzü, kullanılmıyor
 
 ## Özellikler
 
